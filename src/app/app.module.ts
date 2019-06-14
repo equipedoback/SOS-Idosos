@@ -40,5 +40,5 @@ export const firebaseConfig = {
   authDomain: "sos-idosos.firebaseapp.com",
   datababseURL: "https://sos-idosos.firebaseio.com",
   storageBucket: "sos-idosos.appspot.com",
-  messagingSenderId: '770835882294',
+  messagingSenderId: "770835882294"
 };
